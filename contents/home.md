@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/nainsheng)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently enrolled in a combined M.E. and Ph.D. program in Computer Science at the School of Computer Science and Technology, Changchun University of Science and Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+2024200189@mails.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E. & Ph.D. (Combined Program), Computer Science and Technology, Changchun University of Science and Technology, 2022–Present\
+B.E., Computer Science and Technology, Changchun University of Technology, 2017–2022
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Cattle Face Recognition, Behavior Analysis, Image Processing.
 
