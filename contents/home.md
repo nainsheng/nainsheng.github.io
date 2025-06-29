@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/nainsheng)
+[![nainsheng](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/nainsheng)
 
 He is currently enrolled in a combined M.E. and Ph.D. program in Computer Science at the School of Computer Science and Technology, Changchun University of Science and Technology, China.
 
